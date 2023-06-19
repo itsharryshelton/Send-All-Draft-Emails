@@ -9,7 +9,7 @@ As a result, I created this code instead that uses Powershell that hopefully doe
 
 Run the .exe, enter the email address of the draft folder location (It needs to know which email, even if you only have one, but that does mean it allows for multi email outlook setups), click Ok, then it will run through.
 
-![image](https://github.com/itsharryshelton/Send-All-Draft-Emails/assets/136495601/22abffd1-918a-4380-8430-b4b198c5fa4e)
+![image](https://github.com/itsharryshelton/Send-All-Draft-Emails/assets/136495601/7d8a704f-285a-4e67-be3b-465413105a50)
 
 I did find that if you have more than 250 emails, it may struggle to pick them all up, the only way at the moment to resolve this is to just rerun the application and hope it picks it up again.
 
